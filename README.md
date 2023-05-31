@@ -5,6 +5,7 @@
   + [Light Simulator | Simple](#light-simulator-simple)
   + [Game of Life](#game-of-life)
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
+  + [Rock Paper Scissors](#rock-paper-scissors-simple)
 
 + [P5.JS](p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
@@ -47,6 +48,16 @@ Simple implementation of the Game of Life.
 ![Wave-Function-Collapse-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/cdb8ba88-879e-4043-bd92-ff3ca36adb43)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Wave-Function-Collapse-Simple)
+
+----
+
+<a name="rock-paper-scissors-simple"></a>
+## Rock Paper Scissors | Simple
+Simple implementation of the famous game rock paper scissors
+<br>
+![Rock-Paper-Scissors-Simple](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/5f447e08-e4f8-455d-baa1-d209d39ad4d3)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors-Simple)
 
 ----
 
