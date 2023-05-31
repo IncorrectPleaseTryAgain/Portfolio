@@ -18,7 +18,7 @@ This is a collection of projects which were created using one or more of the fol
 <br>
 Each project has their own seperate repository.
 
-----
+<br>
 
 <a name="light-simulator-simple"></a>
 ## Light Simulator | Simple
@@ -28,7 +28,7 @@ Simple ray casting implementation that simulates light.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Light-Simulator-Simple)
 <br>
-[back to top]("portfolio")
+[back to top]("#portfolio")
 
 ----
 
@@ -41,7 +41,7 @@ Implementation of Conway's Game of Life.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Game-Of-Life)
 <br>
-[back to top]("portfolio")
+[back to top]("#portfolio")
 
 ----
 
@@ -53,7 +53,7 @@ Simple implementation of the Game of Life.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Wave-Function-Collapse-Simple)
 <br>
-[back to top]("portfolio")
+[back to top]("#portfolio")
 
 ----
 
@@ -65,7 +65,7 @@ Simple implementation of the famous game rock paper scissors
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors-Simple)
 <br>
-[back to top]("portfolio")
+[back to top]("#portfolio")
 
 ----
 
@@ -74,7 +74,7 @@ This is a collection of projects using the [p5.js](https://p5js.org/) library.
 <br>
 Each project does not have its own seperate repository - Files can be found inside this repository.
 
-----
+<br>
 
 <a name="expanding-points-wrapping"></a>
 ## Expanding Points | Wrapping
@@ -84,9 +84,17 @@ This could represent a water ripple with barriers on all four sides - with no ch
 <br>
 ![Expanding-Points-Wrapping](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/539fdecf-0964-476a-899e-f2ec291bb229)
 <br>
+```
+background(0);
+```
+![Expanding-Points-Wrapping-2](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/40ae1299-f204-4e3d-a8cc-030e3904de0a)
+<br>
+```
+background(0, 10);
+```
 <a href="https://youtu.be/miT1mDXp6Mk">Preview Video</a>
 <br>
-[back to top]("portfolio")
+[back to top]("#portfolio")
 
 ----
-[back to top]("portfolio")
+[back to top]("#portfolio")
