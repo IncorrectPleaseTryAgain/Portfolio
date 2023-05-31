@@ -80,6 +80,8 @@ Each project does not have its own seperate repository - Files can be found insi
 ## Expanding Points | Wrapping
 This program simulates a set of points expanding outwards and then wrapping when they cross an edge.
 <br>
+This could represent a water ripple with barriers on all four sides - with no change in velocity except direction
+<br>
 ![Expanding-Points-Wrapping](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/539fdecf-0964-476a-899e-f2ec291bb229)
 <br>
 <a href="https://youtu.be/miT1mDXp6Mk">Preview Video</a>
