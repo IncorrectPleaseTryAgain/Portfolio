@@ -3,7 +3,7 @@
 ## Contents
 + [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
-  + [Game of Life](#game-of-life)
+  + [Game of Life | Simple](#game-of-life-simple)
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
   + [Rock Paper Scissors](#rock-paper-scissors-simple)
 
@@ -33,13 +33,13 @@ Simple ray casting implementation that simulates light.
 ----
 
 
-<a name="game-of-life"></a>
-## Game of Life
-Implementation of Conway's Game of Life.
+<a name="game-of-life-simple"></a>
+## Game of Life | Simple
+Simple implementation of Conway's Game of Life.
 <br>
-![Game-of-Life](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/efecd997-4a0a-4665-bba6-22b0ca77273b)
+![Game-of-Life-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/efecd997-4a0a-4665-bba6-22b0ca77273b)
 <br>
-[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Game-Of-Life)
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Game-Of-Life-Simple)
 <br>
 [back to top]("#portfolio")
 
