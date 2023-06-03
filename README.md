@@ -27,11 +27,10 @@ Simple ray casting implementation that simulates light.
 ![Light-Simulator-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/33b3b092-c595-4c6f-a9b0-28876c3d1634)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Light-Simulator-Simple)
-<br><hr>
+<br>
 [back to top]("#Portfolio")
 
 ----
-
 
 ## <a name="game-of-life-simple">Game of Life | Simple</a>
 Simple implementation of Conway's Game of Life.
@@ -104,4 +103,4 @@ background(0, 10);
 [back to top]("#portfolio")
 
 ----
-[back to top]("#portfolio")
+[back to top]("portfolio-top")
