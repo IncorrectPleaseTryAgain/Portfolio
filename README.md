@@ -28,7 +28,7 @@ Simple ray casting implementation that simulates light.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Light-Simulator-Simple)
 <br>
-[back to top]("#portfolio")
+[back to top](#portfolio)
 
 ----
 
