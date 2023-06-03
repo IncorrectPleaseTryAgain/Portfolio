@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Contents
-+ [JavaScript | HTML | CSS](#javascript-|-html-|-css)
++ [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
   + [Game of Life | Simple](#game-of-life-simple)
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
@@ -14,7 +14,7 @@
 
 ----
 
-# JavaScript | HTML | CSS
+# <a name="javascript-html-css">JavaScript | HTML | CSS</a>
 This is a collection of projects which were created using one or more of the following programming languages: JavaScript, HTML, CSS.
 <br>
 Each project has their own seperate repository.
