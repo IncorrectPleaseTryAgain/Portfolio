@@ -6,6 +6,7 @@
   + [Game of Life | Simple](#game-of-life-simple)
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
   + [Rock Paper Scissors](#rock-paper-scissors-simple)
+  + [Quadtree](#quadtree)
 
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
@@ -20,8 +21,7 @@ Each project has their own seperate repository.
 
 <br>
 
-<a name="light-simulator-simple"></a>
-## Light Simulator | Simple
+## <a name="light-simulator-simple">Light Simulator | Simple</a>
 Simple ray casting implementation that simulates light.
 <br>
 ![Light-Simulator-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/33b3b092-c595-4c6f-a9b0-28876c3d1634)
@@ -33,8 +33,7 @@ Simple ray casting implementation that simulates light.
 ----
 
 
-<a name="game-of-life-simple"></a>
-## Game of Life | Simple
+## <a name="game-of-life-simple">Game of Life | Simple</a>
 Simple implementation of Conway's Game of Life.
 <br>
 ![Game-of-Life-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/efecd997-4a0a-4665-bba6-22b0ca77273b)
@@ -45,8 +44,7 @@ Simple implementation of Conway's Game of Life.
 
 ----
 
-<a name="wave-function-collapse-simple"></a>
-## Wave Function Collapse | Simple
+## <a name="wave-function-collapse-simple">Wave Function Collapse | Simple</a>
 Simple implementation of the Game of Life.
 <br>
 ![Wave-Function-Collapse-Simple](https://github.com/IncorrectPleaseTryAgain/Renders/assets/99939034/cdb8ba88-879e-4043-bd92-ff3ca36adb43)
@@ -57,13 +55,23 @@ Simple implementation of the Game of Life.
 
 ----
 
-<a name="rock-paper-scissors-simple"></a>
-## Rock Paper Scissors | Simple
+## <a name="rock-paper-scissors-simple">Rock Paper Scissors | Simple</a>
 Simple implementation of the famous game rock paper scissors
 <br>
 ![Rock-Paper-Scissors-Simple](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/5f447e08-e4f8-455d-baa1-d209d39ad4d3)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors-Simple)
+<br>
+[back to top]("#portfolio")
+
+----
+
+## <a name="quadtree">Quadtree</a>
+Implementation of quadtree data structure
+<br>
+![quadtree-independent](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/a462d249-49ce-42a5-947b-c9d8d86c780a)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Quadtree)
 <br>
 [back to top]("#portfolio")
 
