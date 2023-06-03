@@ -1,4 +1,4 @@
-# <a name="portfolio">Portfolio</a>
+# <a name="portfolio-top">Portfolio</a>
 
 ## Contents
 + [JavaScript | HTML | CSS](#javascript-html-css)
@@ -28,7 +28,7 @@ Simple ray casting implementation that simulates light.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Light-Simulator-Simple)
 <br>
-[back to top]("#portfolio")
+[back to top]("#portfolio-top")
 <br>
 
 ----
