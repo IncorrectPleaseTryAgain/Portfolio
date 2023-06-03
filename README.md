@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Contents
-+ [JavaScript | HTML | CSS](#javascript-html-css)
++ [JavaScript | HTML | CSS](#javascript-|-html-|-css)
   + [Light Simulator | Simple](#light-simulator-simple)
   + [Game of Life | Simple](#game-of-life-simple)
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
@@ -14,7 +14,7 @@
 
 ----
 
-# <a name="javascript-html-css">JavaScript | HTML | CSS </a>
+# JavaScript | HTML | CSS
 This is a collection of projects which were created using one or more of the following programming languages: JavaScript, HTML, CSS.
 <br>
 Each project has their own seperate repository.
@@ -39,7 +39,7 @@ Simple implementation of Conway's Game of Life.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Game-Of-Life-Simple)
 <br>
-[back to top]("#portfolio")
+[back to top](#portfolio)
 
 ----
 
@@ -50,7 +50,7 @@ Simple implementation of the Game of Life.
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Wave-Function-Collapse-Simple)
 <br>
-[back to top]("#portfolio")
+[back to top](#portfolio)
 
 ----
 
@@ -61,7 +61,7 @@ Simple implementation of the famous game rock paper scissors
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Rock-Paper-Scissors-Simple)
 <br>
-[back to top]("#portfolio")
+[back to top](#portfolio)
 
 ----
 
@@ -72,7 +72,7 @@ Implementation of quadtree data structure
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Quadtree)
 <br>
-[back to top]("#portfolio")
+[back to top](#portfolio)
 
 ----
 
@@ -100,7 +100,4 @@ background(0);
 background(0, 10);
 ```
 # <a href="https://youtu.be/JAGg-DnOY68">Video Preview</a>
-[back to top]("#portfolio")
-
-----
-[back to top]("portfolio-top")
+[back to top](#portfolio)
