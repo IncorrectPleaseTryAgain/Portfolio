@@ -7,6 +7,7 @@
   + [Wave Function Collapse | Simple](#wave-function-collapse-simple)
   + [Rock Paper Scissors](#rock-paper-scissors-simple)
   + [Quadtree](#quadtree)
+  + [Flocking Simulation | Intermediate](#flocking-simulation-intermediate)
 
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
@@ -71,6 +72,17 @@ Implementation of quadtree data structure
 ![quadtree-independent](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/a462d249-49ce-42a5-947b-c9d8d86c780a)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Quadtree)
+<br>
+[back to top](#portfolio)
+
+----
+
+## <a name="flocking-simulation-intermediate">Flocking Simulation | Intermediate</a>
+Intermediate flocking simulation which uses a quadtree data structure to increase performance.
+<br>
+![flocking-simulation-intermediate](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/3bba2736-1da1-4224-b278-3a133b83804b)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Flocking-Simulation-Intermediate)
 <br>
 [back to top](#portfolio)
 
