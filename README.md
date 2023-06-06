@@ -1,5 +1,7 @@
 # Portfolio
 
+Note: The Contents are in chronological order within each category.
+
 ## Contents
 + [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
