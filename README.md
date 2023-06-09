@@ -1,10 +1,15 @@
-# Portfolio
+# 📂Portfolio📂
 
+```
 Note: Each categories contents are listed in chronological order.
+```
 
-## Contents
-+ [C++](#c++)
+<details>
+  <summary><h2>📃Contents📃<h2></summary>
+    
++ [CPP](#cpp)
   + [UofR | Tile Based Game](#uofr-tile-based-game)
+    
 + [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
   + [Game of Life | Simple](#game-of-life-simple)
@@ -16,9 +21,11 @@ Note: Each categories contents are listed in chronological order.
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
 
+</details>
+
 ---
 
-# <a name="c++">C++</a>
+# <a name="cpp">CPP</a>
 This is a collection of projects which were created using c++.
 <br>
 
