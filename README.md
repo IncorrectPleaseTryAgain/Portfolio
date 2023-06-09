@@ -3,6 +3,8 @@
 Note: Each categories content is listed in chronological order.
 
 ## Contents
++ [C++](#c++)
+  + [UofR | Tile Based Game](#uofr-tile-based-game)
 + [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
   + [Game of Life | Simple](#game-of-life-simple)
@@ -14,14 +16,25 @@ Note: Each categories content is listed in chronological order.
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
 
+---
 
-----
+# <a name="c++">C++</a>
+This is a collection of projects which were created using c++.
+<br>
+
+## <a name="uofr-tile-based-game">UofR | Tile Based Game</a>
+Tile based game created for university.
+<br>
+![Screenshot 2023-06-09 191515](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/e4f9e145-665a-4750-8161-6a92af3d579f)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-115)
+<br>
+[back to top](#portfolio)
+
+---
 
 # <a name="javascript-html-css">JavaScript | HTML | CSS</a>
 This is a collection of projects which were created using one or more of the following programming languages: JavaScript, HTML, CSS.
-<br>
-Each project has their own seperate repository.
-
 <br>
 
 ## <a name="light-simulator-simple">Light Simulator | Simple</a>
@@ -33,7 +46,7 @@ Simple ray casting implementation that simulates light.
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 ## <a name="game-of-life-simple">Game of Life | Simple</a>
 Simple implementation of Conway's Game of Life.
@@ -44,7 +57,7 @@ Simple implementation of Conway's Game of Life.
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 ## <a name="wave-function-collapse-simple">Wave Function Collapse | Simple</a>
 Simple implementation of the Game of Life.
@@ -55,7 +68,7 @@ Simple implementation of the Game of Life.
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 ## <a name="rock-paper-scissors-simple">Rock Paper Scissors | Simple</a>
 Simple implementation of the famous game rock paper scissors
@@ -66,7 +79,7 @@ Simple implementation of the famous game rock paper scissors
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 ## <a name="quadtree">Quadtree</a>
 Implementation of quadtree data structure
@@ -77,7 +90,7 @@ Implementation of quadtree data structure
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 ## <a name="flocking-simulation-intermediate">Flocking Simulation | Intermediate</a>
 Intermediate flocking simulation which uses a quadtree data structure to increase performance.
@@ -88,13 +101,12 @@ Intermediate flocking simulation which uses a quadtree data structure to increas
 <br>
 [back to top](#portfolio)
 
-----
+---
 
 # <a name="p5.js">P5.JS</a>
 This is a collection of projects using the [p5.js](https://p5js.org/) library.
 <br>
-Each project does not have its own seperate repository - Files can be found inside this repository.
-
+Files can be found inside this repository.
 <br>
 
 <a name="expanding-points-wrapping"></a>
