@@ -25,7 +25,7 @@ This is a collection of projects which were created using c++.
 ## <a name="uofr-tile-based-game">UofR | Tile Based Game</a>
 Tile based game created for university.
 <br>
-![Screenshot 2023-06-09 191515](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/e4f9e145-665a-4750-8161-6a92af3d579f)
+![uofr-tile-based-game](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/73e8826d-6bc6-4c73-8e0d-bf86a12d99f2)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-115)
 <br>
