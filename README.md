@@ -27,7 +27,7 @@ Tile based game created for university.
 <br>
 ![uofr-tile-based-game](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/73e8826d-6bc6-4c73-8e0d-bf86a12d99f2)
 <br>
-[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-115)
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-115-Tile-Based-Game)
 <br>
 [back to top](#portfolio)
 
