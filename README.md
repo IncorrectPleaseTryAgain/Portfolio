@@ -1,6 +1,6 @@
 # Portfolio
 
-Note: The Contents are in chronological order within each category.
+Note: Each categories content is listed in chronological order.
 
 ## Contents
 + [JavaScript | HTML | CSS](#javascript-html-css)
