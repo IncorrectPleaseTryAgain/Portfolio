@@ -1,6 +1,6 @@
 # Portfolio
 
-Note: Each categories content is listed in chronological order.
+Note: Each categories contents are listed in chronological order.
 
 ## Contents
 + [C++](#c++)
