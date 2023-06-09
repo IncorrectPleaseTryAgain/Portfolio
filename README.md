@@ -8,7 +8,8 @@ Note: Each categories contents are listed in chronological order.
   <summary><h2>📃Contents📃<h2></summary>
     
 + [CPP](#cpp)
-  + [UofR | Tile Based Game](#uofr-tile-based-game)
+  + [Tile Based Game](#tile-based-game)
+  + [ABC University | Biary Search Tree](#abc-university-binary-search-tree)
     
 + [JavaScript | HTML | CSS](#javascript-html-css)
   + [Light Simulator | Simple](#light-simulator-simple)
@@ -20,6 +21,11 @@ Note: Each categories contents are listed in chronological order.
 
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
+    
++ [Documents](#documents)
+    + [DriverPass | Systems Design](#driverpass-systems-design)
+    + [Gaming Room | Systems Design](#gaming-room-systems-design)
+    + [Sprint Review | Retrospective](#sprint-review-retrospective)
 
 </details>
 
@@ -29,12 +35,25 @@ Note: Each categories contents are listed in chronological order.
 This is a collection of projects which were created using c++.
 <br>
 
-## <a name="uofr-tile-based-game">UofR | Tile Based Game</a>
+## <a name="tile-based-game">Tile Based Game</a>
 Tile based game created for university.
 <br>
 ![uofr-tile-based-game](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/73e8826d-6bc6-4c73-8e0d-bf86a12d99f2)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-115-Tile-Based-Game)
+<br>
+[back to top](#portfolio)
+         
+---
+    
+## <a name="abc-university-binary-search-tree">ABC University | Binary Search Tree</a>
+"ABC University (ABCU) was looking for software that will help their computer science advisors access course information for students"
+<br>
+This project includes runtime analysis document.
+<br>
+![abc-university-binary-search-tree](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/565ab7cb-1cfe-4773-8434-fc4e7e1254f5)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-300-ABC-University)
 <br>
 [back to top](#portfolio)
 
@@ -133,4 +152,41 @@ background(0);
 background(0, 10);
 ```
 ### <a href="https://youtu.be/JAGg-DnOY68">Video Preview</a>
+[back to top](#portfolio)
+    
+---
+    
+# <a name="documents">Documents</a>
+This is a collection of projects that are document based.
+<br>
+
+## <a name="driverpass-systems-design">DriverPass | Systems Design</a>
+This project was a systems design project revolving around a client Liam and their needs.
+<br>
+![driverpass-systems-design](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/409a53c5-860e-4415-8c38-32fb1d2f1117)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-255-DriverPass)
+<br>
+[back to top](#portfolio)
+
+---
+    
+## <a name="gaming-room-systems-design">Gaming Room | Systems Design</a>
+This project was a systems design project revolving around a client and their needs.
+<br>
+![gaming-room-systems-design](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/3cb99332-92f6-4f23-92b3-28db0cac3033)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-230-The-Game-Room)
+<br>
+[back to top](#portfolio)
+    
+---
+    
+## <a name="sprint-review-retrospective">Sprint Review | Retrospective</a>
+This project required me to express my understanding of a sprint review and retrospective.
+<br>
+![sprint-review-retrospective](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/c4506c75-f6c7-476a-8cfe-63759a05036e)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-250-Sprint-Review-Retrospective)
+<br>
 [back to top](#portfolio)
