@@ -163,7 +163,7 @@ This program simulates a set of points moving along an arc whiles changing.
 <br>
 ![polyrhythms-rainbow](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/37fef072-7576-4348-8d7b-5bf8a3eacdd2)
 <br>
-### <a href="https://youtu.be/JAGg-DnOY68">Video Preview</a>
+### <a href="https://youtu.be/tWeN4KJ9Izo">Video Preview</a>
 [back to top](#portfolio)
     
 ---
