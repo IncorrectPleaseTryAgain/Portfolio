@@ -21,6 +21,7 @@ Note: Each categories contents are listed in chronological order.
 
 + [P5.JS](#p5.js)
   + [Expanding Points | Wrapping](#expanding-points-wrapping)
+  + [Polyrhythms | Rainbow](#polyrhythms-rainbow)
     
 + [Documents](#documents)
     + [DriverPass | Systems Design](#driverpass-systems-design)
@@ -151,6 +152,17 @@ background(0);
 ```
 background(0, 10);
 ```
+### <a href="https://youtu.be/JAGg-DnOY68">Video Preview</a>
+[back to top](#portfolio)
+    
+---
+
+<a name="polyrhythms-rainbow"></a>
+## Polyrhythms | Rainbow
+This program simulates a set of points moving along an arc whiles changing.
+<br>
+![polyrhythms-rainbow](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/37fef072-7576-4348-8d7b-5bf8a3eacdd2)
+<br>
 ### <a href="https://youtu.be/JAGg-DnOY68">Video Preview</a>
 [back to top](#portfolio)
     
