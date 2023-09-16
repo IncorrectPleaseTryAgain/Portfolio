@@ -209,7 +209,7 @@ This project required me to express my understanding of a sprint review and retr
 ---
 
 # <a name="UofR">University Of Regina</a>
-This is a collection of CS courses taken at the UofR starting 2023
+This is a collection of courses taken at the UofR starting 2023
 <br>
 
 ## <a name="CS210">CS210 | Data Structures and Abstractions</a>
