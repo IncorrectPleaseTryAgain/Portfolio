@@ -28,6 +28,9 @@ Note: Each categories contents are listed in chronological order.
     + [Gaming Room | Systems Design](#gaming-room-systems-design)
     + [Sprint Review | Retrospective](#sprint-review-retrospective)
 
+ + [University Of Regina](#UofR)
+   + [CS210 | Data Structures and Abstractions](#CS210)
+
 </details>
 
 ---
@@ -200,5 +203,18 @@ This project required me to express my understanding of a sprint review and retr
 ![sprint-review-retrospective](https://github.com/IncorrectPleaseTryAgain/Portfolio/assets/99939034/c4506c75-f6c7-476a-8cfe-63759a05036e)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-250-Sprint-Review-Retrospective)
+<br>
+[back to top](#portfolio)
+
+---
+
+# <a name="UofR">University Of Regina</a>
+This is a collection of CS courses taken at the UofR starting 2023
+<br>
+
+## <a name="CS210">CS210 | Data Structures and Abstractions</a>
+Fall (Sept-Dec) Semester 2023
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS210)
 <br>
 [back to top](#portfolio)
