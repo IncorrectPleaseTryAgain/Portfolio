@@ -30,6 +30,9 @@ Note: Each categories contents are listed in chronological order.
 
  + [University Of Regina](#UofR)
    + [CS210 | Data Structures and Abstractions](#CS210)
+  
++ [Unity](#unity)
+  + [Flappy UFO](#flappy-ufo)
 
 </details>
 
@@ -218,3 +221,23 @@ Fall (Sept-Dec) Semester 2023
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS210)
 <br>
 [back to top](#portfolio)
+
+
+---
+
+# <a name="unity">Unity</a>
+This is a collection of Unity projects.
+<br>
+
+## <a name="flappy-ufo">Flappy UFO</a>
+Flappy Bird inspired game
+```
+First Unity Project
+```
+![](https://github.com/user-attachments/assets/00e91462-7699-404d-8937-164b0d9b7537)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Flappy-UFO)
+<br>
+[back to top](#portfolio)
+         
+---
