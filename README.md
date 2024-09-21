@@ -217,6 +217,7 @@ This is a collection of courses taken at the UofR starting 2023
 
 ## <a name="CS210">CS210 | Data Structures and Abstractions</a>
 Fall (Sept-Dec) Semester 2023
+![image](https://github.com/user-attachments/assets/c46d7227-2a22-4606-b245-fa7b455ed618)
 <br>
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS210)
 <br>
@@ -224,6 +225,13 @@ Fall (Sept-Dec) Semester 2023
 
 
 ---
+## <a name="CS215">CS215 | Web and Database Programming</a>
+Winter (Jan-Aprl) Semester 2024
+![image](https://github.com/user-attachments/assets/36c95350-991f-4967-bae8-c9d36a257f8f)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/CS-215-Web-and-Database-Programming)
+<br>
+[back to top](#portfolio)
 
 # <a name="unity">Unity</a>
 This is a collection of Unity projects.
