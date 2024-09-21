@@ -30,6 +30,7 @@ Note: Each categories contents are listed in chronological order.
 
  + [University Of Regina](#UofR)
    + [CS210 | Data Structures and Abstractions](#CS210)
+   + [CS215 | Web and Database Programming](#CS215)
   
 + [Unity](#unity)
   + [Flappy UFO](#flappy-ufo)
