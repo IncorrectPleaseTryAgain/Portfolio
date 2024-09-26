@@ -34,6 +34,7 @@ Note: Each categories contents are listed in chronological order.
   
 + [Unity](#unity)
   + [Flappy UFO](#flappy-ufo)
+  + [Space Shooter](#space-shooter)
 
 </details>
 
@@ -248,5 +249,18 @@ First Unity Project
 [GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Flappy-UFO)
 <br>
 [back to top](#portfolio)
-         
+
+---
+
+## <a name="space-shooter">Space Shooter</a>
+Space Shooter Arcade Game
+```
+Second Unity Project
+```
+![](https://github.com/user-attachments/assets/38c70a33-6fb0-441a-9edb-2596f8d14976)
+<br>
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Space-Shooter/tree/main)
+<br>
+[back to top](#portfolio)
+
 ---
