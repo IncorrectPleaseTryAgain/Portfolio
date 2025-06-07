@@ -259,7 +259,7 @@ Second Unity Project
 ```
 ![](https://github.com/user-attachments/assets/38c70a33-6fb0-441a-9edb-2596f8d14976)
 <br>
-[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/Space-Shooter/tree/main)
+[GitHub Repository](https://github.com/IncorrectPleaseTryAgain/UnityGame-SpaceShooter)
 <br>
 [back to top](#portfolio)
 
